@@ -1,3 +1,2 @@
-# fin
-
-kkkkk
+linguagem: php
+banco de dados: mysql
